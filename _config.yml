@@ -13,36 +13,6 @@ url:        	  /Notepad
 owner:
   name:           Hossain Mohd Faysal
   avatar:         hmfaysal.jpg
-<<<<<<< HEAD
-<<<<<<< HEAD
-  email:          ""
-=======
-  email:          hmfaysal@alum.mit.edu
->>>>>>> parent of c10c180... Updated the _config.yml
-  # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Awesome Dude, Awesome Life
-  # Social networking links used in footer. Update and remove as you like.
-<<<<<<< HEAD
-  twitter:     ""        
-  facebook:     ""     
-  github:     ""               
-  instagram:     ""     
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:     "" 
-
-# Analytics and webmaster tools stuff goes here
-google_analytics:     ""
-google_verify:     ""     
-=======
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal      
-  instagram:      hmfaysal
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
-
-# Analytics and webmaster tools stuff goes here
-=======
   email:          hmfaysal@alum.mit.edu
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Awesome Dude, Awesome Life
@@ -55,12 +25,10 @@ google_verify:     ""
   google_plus:    https://plus.google.com/u/0/102602916593522619858
 
 # Analytics and webmaster tools stuff goes here
->>>>>>> parent of c10c180... Updated the _config.yml
 google_analytics:   UA-39365944-7
 google_verify:      
->>>>>>> parent of c10c180... Updated the _config.yml
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:     ""         
+bing_verify:         
 
 # Links to include in footer navigation
 # For external links add external: true
