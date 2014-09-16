@@ -24,3 +24,6 @@ chart: true
 
 
 Hi.
+You seem to have stumbled across my blog! 
+I'm a pretty simple person. I love cooking and baking, photography, mysteries of all kinds (namely, Sherlock), and pandas. You'll find all sorts of things here. 
+Hopefully I'll have some more content soon!
